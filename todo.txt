@@ -1,0 +1,12 @@
+its ready, you may proceed.
+please let me know as soon as you are done.
+
+
+
+
+
+I initialised SLAs to 0s for A3D58Q, you can edit and put the correct values
+- Please supply the correct job code, i could not find LZ1RTU
+
+
+also wanted to ask about the triggers on Timesheet and TimesheetEntry, do they not also run when you insert rows into the table during synchronisation?
