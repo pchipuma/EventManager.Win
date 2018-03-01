@@ -1,0 +1,9 @@
+J:\Users\chipuma.percy\Documents\Projects\EventManager.Win\EventManager.Win\bin\Debug\EventManager.Win.exe.config
+J:\Users\chipuma.percy\Documents\Projects\EventManager.Win\EventManager.Win\bin\Debug\EventManager.Win.exe
+J:\Users\chipuma.percy\Documents\Projects\EventManager.Win\EventManager.Win\bin\Debug\EventManager.Win.pdb
+J:\Users\chipuma.percy\Documents\Projects\EventManager.Win\EventManager.Win\obj\Debug\EventManager.frmEventManager.resources
+J:\Users\chipuma.percy\Documents\Projects\EventManager.Win\EventManager.Win\obj\Debug\EventManager.Properties.Resources.resources
+J:\Users\chipuma.percy\Documents\Projects\EventManager.Win\EventManager.Win\obj\Debug\EventManager.Win.csproj.GenerateResource.Cache
+J:\Users\chipuma.percy\Documents\Projects\EventManager.Win\EventManager.Win\obj\Debug\EventManager.Win.exe
+J:\Users\chipuma.percy\Documents\Projects\EventManager.Win\EventManager.Win\obj\Debug\EventManager.Win.pdb
+J:\Users\chipuma.percy\Documents\Projects\EventManager.Win\EventManager.Win\obj\Debug\EventManager.Win.csproj.ResolveComReference.cache

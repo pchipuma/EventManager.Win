@@ -1,0 +1,15 @@
+J:\Users\chipuma.percy\Documents\Projects\EventManager.Win\EventManager.Win\bin\Release\EventManager.Win.exe.config
+J:\Users\chipuma.percy\Documents\Projects\EventManager.Win\EventManager.Win\obj\Release\EventManager.Win.csproj.ResolveComReference.cache
+J:\Users\chipuma.percy\Documents\Projects\EventManager.Win\EventManager.Win\bin\Release\EventManager.Win.exe
+J:\Users\chipuma.percy\Documents\Projects\EventManager.Win\EventManager.Win\bin\Release\EventManager.Win.pdb
+J:\Users\chipuma.percy\Documents\Projects\EventManager.Win\EventManager.Win\obj\Release\EventManager.frmEventManager.resources
+J:\Users\chipuma.percy\Documents\Projects\EventManager.Win\EventManager.Win\obj\Release\EventManager.Properties.Resources.resources
+J:\Users\chipuma.percy\Documents\Projects\EventManager.Win\EventManager.Win\obj\Release\EventManager.Win.csproj.GenerateResource.Cache
+J:\Users\chipuma.percy\Documents\Projects\EventManager.Win\EventManager.Win\obj\Release\EventManager.Win.exe
+J:\Users\chipuma.percy\Documents\Projects\EventManager.Win\EventManager.Win\obj\Release\EventManager.Win.pdb
+J:\Users\chipuma.percy\Documents\Projects\EventManager.Win\EventManager.Win\obj\Release\EventManager.Win.exe.licenses
+J:\Users\chipuma.percy\Documents\Projects\EventManager.Win\EventManager.Win\obj\Release\EventManager.Win.csprojResolveAssemblyReference.cache
+J:\Users\chipuma.percy\Documents\Projects\Repo\EventManager.Win\EventManager.Win\bin\Release\EventManager.Win.exe.config
+J:\Users\chipuma.percy\Documents\Projects\Repo\EventManager.Win\EventManager.Win\obj\Release\EventManager.Win.csproj.ResolveComReference.cache
+J:\Users\chipuma.percy\Documents\Projects\Repo\EventManager.Win\EventManager.Win\obj\Release\EventManager.Win.exe
+J:\Users\chipuma.percy\Documents\Projects\Repo\EventManager.Win\EventManager.Win\obj\Release\EventManager.Win.pdb

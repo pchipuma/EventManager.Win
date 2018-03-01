@@ -1,0 +1,9 @@
+C:\Users\chipuma.percy\AppData\Local\Temporary Projects\EventManager\bin\Debug\EventManager.exe.config
+C:\Users\chipuma.percy\AppData\Local\Temporary Projects\EventManager\bin\Debug\EventManager.exe
+C:\Users\chipuma.percy\AppData\Local\Temporary Projects\EventManager\bin\Debug\EventManager.pdb
+C:\Users\chipuma.percy\AppData\Local\Temporary Projects\EventManager\obj\Debug\EventManager.csprojResolveAssemblyReference.cache
+C:\Users\chipuma.percy\AppData\Local\Temporary Projects\EventManager\obj\Debug\EventManager.Properties.Resources.resources
+C:\Users\chipuma.percy\AppData\Local\Temporary Projects\EventManager\obj\Debug\EventManager.csproj.GenerateResource.Cache
+C:\Users\chipuma.percy\AppData\Local\Temporary Projects\EventManager\obj\Debug\EventManager.exe
+C:\Users\chipuma.percy\AppData\Local\Temporary Projects\EventManager\obj\Debug\EventManager.pdb
+C:\Users\chipuma.percy\AppData\Local\Temporary Projects\EventManager\obj\Debug\EventManager.frmEventManager.resources
